@@ -1,0 +1,19 @@
+{
+  "name": "gulp_project",
+  "version": "1.0.0",
+  "description": "Working with Gulp - a popular task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "NodeJS"
+  ],
+  "author": "Elvin M. Samuel <elvinsamuel1@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
